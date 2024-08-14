@@ -1,0 +1,25 @@
+# Libraries
+node_modules
+
+# Environment Files
+.env
+
+# Lock Files
+package-lock.json
+
+# OS
+.DS_Store
+
+# screenshots folder
+screenshots/*
+!screenshots/.gitkeep
+
+# test folder
+src/test/*
+src/!test/.gitkeep
+
+# vscode config folder
+.vscode
+
+# Temp folder
+tmp
